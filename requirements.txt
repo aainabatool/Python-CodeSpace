@@ -1,0 +1,37 @@
+# === Essential Utilities ===
+requests          # HTTP requests (APIs, web scraping)
+beautifulsoup4    # HTML parsing and web scraping
+lxml              # Fast XML/HTML parser
+python-dotenv     # Load environment variables
+
+# === Data & Analysis ===
+numpy             # Numerical computing
+pandas            # Data analysis
+matplotlib        # Plotting & visualization
+seaborn           # Statistical data visualization
+scikit-learn      # Machine learning basics
+
+# === Web Development ===
+flask             # Lightweight web framework
+django            # Full-featured web framework
+fastapi           # Modern async web framework (great for APIs)
+
+# === Databases ===
+sqlalchemy        # Database ORM
+psycopg2-binary   # PostgreSQL driver
+pymongo           # MongoDB driver
+
+# === Jupyter & Notebooks ===
+jupyter           # Jupyter notebook
+notebook          # Interactive coding
+ipython           # Interactive Python shell
+
+# === Testing ===
+pytest            # Testing framework
+black             # Code formatter
+flake8            # Linter for clean code
+
+# === AI & Deep Learning (optional, common) ===
+torch             # PyTorch for deep learning
+tensorflow        # TensorFlow (alternative)
+transformers      # Hugging Face models (NLP)
